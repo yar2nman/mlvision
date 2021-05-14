@@ -1,0 +1,12 @@
+{
+  "name": "mlvision",
+  "displayName": "mlvision",
+  "expo": {
+    "name": "mlvision",
+    "slug": "mlvision",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
