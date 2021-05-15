@@ -10,6 +10,8 @@
     ],
     "android": {
       "package": "com.yar2nman.mlvision"
-    }
+    },
+    "description": "Testing ML JS libraries using react native",
+    "githubUrl": "https://github.com/yar2nman/mlvision.git"
   }
 }
